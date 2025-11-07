@@ -1,0 +1,20 @@
+const Map<String, String> hiIN = {
+  'app_title': 'रम्मीप्रो',
+  'welcome_message': 'रम्मीप्रो में आपका स्वागत है',
+  'login': 'लॉगिन',
+  'register': 'रजिस्टर',
+  'logout': 'लॉगआउट',
+  'wallet_balance': 'वॉलेट बैलेंस',
+  'deposit': 'जमा करें',
+  'withdraw': 'निकासी',
+  'transactions': 'लेन-देन',
+  'lobby': 'लॉबी',
+  'tables': 'टेबल्स',
+  'join_table': 'टेबल जॉइन करें',
+  'kyc_required': 'केवाईसी सत्यापन आवश्यक',
+  'admin_panel': 'एडमिन पैनल',
+  'settings': 'सेटिंग्स',
+  'responsible_gaming': 'जिम्मेदारी से खेलें',
+  'legal_disclaimer':
+      'इस ऐप में कैश गेम्स 18+ यूज़र्स के लिए हैं। अपने क्षेत्र के क़ानून जाँच लें और जिम्मेदारी से खेलें।',
+};

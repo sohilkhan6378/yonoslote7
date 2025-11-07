@@ -1,0 +1,38 @@
+{
+  "rake_percentage": {
+    "defaultValue": { "doubleValue": 0.1 },
+    "description": "Platform rake percentage for prize pools"
+  },
+  "allowed_regions": {
+    "defaultValue": { "stringValue": "IN" },
+    "description": "Comma-separated ISO country codes allowed for cash games"
+  },
+  "deny_regions": {
+    "defaultValue": { "stringValue": "" },
+    "description": "Comma-separated ISO country codes blocked from cash games"
+  },
+  "enable_mock_payments": {
+    "defaultValue": { "booleanValue": true },
+    "description": "Toggle mock payment gateway"
+  },
+  "daily_deposit_limit": {
+    "defaultValue": { "doubleValue": 50000 },
+    "description": "Daily deposit limit in INR"
+  },
+  "weekly_deposit_limit": {
+    "defaultValue": { "doubleValue": 200000 },
+    "description": "Weekly deposit limit in INR"
+  },
+  "enable_phone_auth": {
+    "defaultValue": { "booleanValue": false },
+    "description": "Gate phone authentication"
+  },
+  "session_timeout_minutes": {
+    "defaultValue": { "intValue": "60" },
+    "description": "Session timeout for responsible gaming"
+  },
+  "enable_mini_game": {
+    "defaultValue": { "booleanValue": true },
+    "description": "Expose sample mini game"
+  }
+}

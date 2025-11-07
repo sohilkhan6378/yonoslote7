@@ -1,0 +1,20 @@
+const Map<String, String> enUS = {
+  'app_title': 'RummyPro',
+  'welcome_message': 'Welcome to RummyPro',
+  'login': 'Login',
+  'register': 'Register',
+  'logout': 'Logout',
+  'wallet_balance': 'Wallet Balance',
+  'deposit': 'Deposit',
+  'withdraw': 'Withdraw',
+  'transactions': 'Transactions',
+  'lobby': 'Lobby',
+  'tables': 'Tables',
+  'join_table': 'Join Table',
+  'kyc_required': 'KYC verification required',
+  'admin_panel': 'Admin Panel',
+  'settings': 'Settings',
+  'responsible_gaming': 'Responsible Gaming',
+  'legal_disclaimer':
+      'Cash games are for players 18+. Check your local laws and play responsibly.',
+};

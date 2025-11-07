@@ -1,0 +1,13 @@
+# Flutter
+build/
+.dart_tool/
+.packages
+.pub-cache/
+flutter_*.png
+
+# IDEs
+.idea/
+.vscode/
+
+# Firebase
+lib/firebase_options.dart.bak
